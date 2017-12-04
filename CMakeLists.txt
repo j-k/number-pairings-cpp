@@ -1,0 +1,5 @@
+cmake_minimum_required (VERSION 3.9.1)
+set (CMAKE_CXX_STANDARD 14)
+project (test_np)
+include_directories(${CMAKE_SOURCE_DIR}/include)
+add_executable(test_np test/test_main.cpp)
