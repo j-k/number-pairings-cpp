@@ -1,4 +1,4 @@
-// Copyright (c) Jens Kubacki
+// Copyright (c) Jens Kubacki 2017
 
 // make:
 // g++ -I../include -o test_np test_main.cpp
